@@ -1,0 +1,19 @@
+{
+  "name": "simpan",
+  "version": "0.0.1",
+  "description": "Still don't have any description yet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonyarianto/simpan.git"
+  },
+  "author": "Sony Arianto Kurniawan <sony@sony-ak.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonyarianto/simpan/issues"
+  },
+  "homepage": "https://github.com/sonyarianto/simpan#readme"
+}
