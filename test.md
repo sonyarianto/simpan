@@ -1,3 +1,3 @@
 | Name | Country |
 |-|-|
-| Sony | Indonesia |
+| Sony | Indonesia\|aass`a` |
